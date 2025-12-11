@@ -1,0 +1,20 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "A mini project to practice file upload in nodejs",
+  "keywords": [
+    "multer",
+    "files",
+    "images"
+  ],
+  "license": "ISC",
+  "author": "himanshu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
